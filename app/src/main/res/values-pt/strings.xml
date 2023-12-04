@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_intro_1">Carimbe Suas Memórias</string>
+    <string name="title_intro_2">Modelos Personalizáveis</string>
+    <string name="title_intro_3">Mapas Interativos</string>
+
+    <string name="title_back_intro">Voltar</string>
+    <string name="intro_next">Próximo</string>
+
+    <string name="content_intro_1">Melhore o aspecto narrativo de suas fotos com nosso recurso de carimbo intuitivo</string>
+    <string name="content_intro_2">Escolha entre uma variedade de modelos de diário para combinar com seu estilo de viagem</string>
+    <string name="content_intro_3">Veja toda a sua viagem se desenrolar em um mapa interativo</string>
+
+    <string name="splash_title">Esta ação pode conter anúncios</string>
+
+    <string name="facebook_app_id" translatable="false"></string>
+    <string name="facebook_client_token" translatable="false"></string>
+    <string name="app_flyer" translatable="false">LikYKU2zUYTct7BoQ7MuJY</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- policy -->
+    <string name="privacy_policy_link">https://biuustudio.netlify.app/policy</string>
+
+    <string name="title_dialog_rating_0">Você gosta do aplicativo?</string>
+    <string name="content_dialog_rating_0">Deixe-nos saber sobre sua experiência</string>
+
+    <string name="title_dialog_rating">Oh, não!</string>
+    <string name="content_dialog_rating">Por favor, dê-nos algum feedback</string>
+
+    <string name="title_dialog_rating_4_5">Nós também te amamos!</string>
+    <string name="content_dialog_rating_4_5">Obrigado pelo seu feedback</string>
+    <string name="please_feedback">Por favor, faça um feedback</string>
+
+    <!-- home -->
+    <string name="home">Página Inicial</string>
+
+    <!-- setting -->
+    <string name="language">Idioma</string>
+    <string name="language_option">Opções de Idioma</string>
+    <string name="rate_us">Avalie-nos</string>
+    <string name="private_policy">Política de Privacidade</string>
+    <string name="setting">Configuração</string>
+    <string name="stamp_options">Opções de Carimbo</string>
+
+    <!-- permission -->
+    <string name="permission">Permissão</string>
+    <string name="go">Ir</string>
+    <string name="permission_title">\u0022GPS Camera\u0022 requer permissão para usar o armazenamento, câmera e localização do dispositivo</string>
+    <string name="map">Mapa</string>
+    <string name="view_all">Ver tudo</string>
+    <string name="permission_denied">Permissão negada</string>
+    <string name="image">Fotos</string>
+    <string name="video">Vídeos</string>
+    <string name="information">Informações</string>
+    <string name="name">Nome</string>
+    <string name="date">Data</string>
+    <string name="path">Caminho</string>
+    <string name="resolution">Resolução</string>
+    <string name="delete_successfully">Excluído com sucesso</string>
+    <string name="something_wrong">Algo deu errado com este arquivo</string>
+    <string name="stamp_customization">Personalização do Carimbo</string>
+    <string name="string_banner_home">Adicione carimbos informativos e personalizados às suas imagens georreferenciadas, transformando-as em narrativas vívidas de suas viagens</string>
+    <string name="compass">Bússola</string>
+    <string name="per_storage">Armazenamento</string>
+    <string name="per_camera_record">Câmera e Gravação</string>
+    <string name="per_location">Localização</string>
+    <string name="setting_stamp_options">Opções de Carimbo</string>
+    <string name="map_gps_coordinates">Coordenadas GPS</string>
+    <string name="map_latitude">Latitude</string>
+    <string name="map_longitude">Longitude</string>
+    <string name="map_location">Localização</string>
+    <string name="title_compass">Bússola</string>
+    <string name="camera_photo">Foto</string>
+    <string name="camera_video">Vídeo</string>
+    <string name="title_font_style">Estilo de Fonte</string>
+    <string name="title_text_color">Cor do Texto</string>
+    <string name="stamp_font_style">Estilo de Fonte</string>
+    <string name="stamp_text_color">Cor do Texto</string>
+    <string name="stamp_show_map">Mostrar Mapa</string>
+    <string name="could_not_find_this_image_address">Não foi possível encontrar o endereço desta imagem</string>
+    <string name="can_t_find_the_longitude_and_latitude_of_this_photo">Não é possível encontrar a longitude e a latitude desta foto</string>
+    <string name="sample_file">Este é um arquivo de exemplo</string>
+    <string name="text_elevation">Elevação de %1sm</string>
+    <string name="check_permission_internet">Você precisa ligar a Internet</string>
+
+
+    <string name="text_start">Iniciar</string>
+    <string name="title_stamp_option">Opção de Carimbo</string>
+    <string name="text_rate">Avaliar</string>
+    <string name="text_exit">Sair</string>
+    <string name="save_video_success">O vídeo foi salvo</string>
+
+    <string name="gallery">Galeria</string>
+    <string name="map_data">Dados do mapa</string>
+    <string name="location_permission_denied">Permissão de localização negada</string>
+    <string name="logo_option">Opção de logotipo</string>
+    <string name="please_allow_the_permission">Por favor, permita a permissão</string>
+    <string name="note">Observação:</string>
+    <string name="you_need_to_turn_on_the_internet">Você precisa ligar a Internet</string>
+    <string name="confirm_delete">Confirmar exclusão</string>
+    <string name="do_you_want_to_delete_this_photo">Quer excluir esta %1s?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">confirme</string>
+    <string name="note_v2">Observação</string>
+    <string name="add_note">Adicionar nota</string>
+    <string name="thank_you">Obrigado</string>
+
+
+</resources>

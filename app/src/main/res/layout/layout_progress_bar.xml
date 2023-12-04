@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/progress_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="@color/color_background"
+        android:orientation="vertical">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animationView"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/loading" />
+
+<!--        <ProgressBar-->
+<!--            android:id="@+id/loading"-->
+<!--            style="?android:attr/progressBarStyleHorizontal"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="40dp"-->
+<!--            android:layout_marginStart="15dp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:layout_marginEnd="15dp"-->
+<!--            android:indeterminate="true"-->
+<!--            android:indeterminateTint="#008172"-->
+<!--            android:max="50"-->
+<!--            android:progress="10" />-->
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginStart="10dp"-->
+<!--            android:layout_marginTop="15dp"-->
+<!--            android:layout_marginEnd="10dp"-->
+<!--            android:fontFamily="@font/inter_bold"-->
+<!--            android:gravity="center"-->
+<!--            android:text="Please wait for the data processing..."-->
+<!--            android:textColor="#1B1B1B"-->
+<!--            android:textSize="18sp" />-->
+    </LinearLayout>
+</layout>

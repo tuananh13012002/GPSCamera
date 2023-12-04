@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F2F2F2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/stamp_option"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_toolbar"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/tv_titile"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/inter_bold"
+                    android:gravity="center"
+                    android:text="@string/title_stamp_option"
+                    android:textColor="#252932"
+                    android:textSize="20sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:id="@+id/btn_choose_lang"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_ripple_oval"
+                    android:backgroundTint="@color/white"
+                    android:src="@drawable/baseline_arrow_back_ios_24_black"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:tint="@color/black"
+                    tools:ignore="ContentDescription" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <LinearLayout
+                android:id="@+id/btn_font_style"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="?android:dividerHorizontal"
+                android:orientation="vertical"
+                android:paddingHorizontal="16dp">
+
+                <TextView
+                    android:id="@+id/font_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:background="@drawable/bg_border"
+                    android:drawableStart="@drawable/ic_font_style"
+                    android:drawableEnd="@drawable/ic_next"
+                    android:drawablePadding="16dp"
+                    android:fontFamily="@font/inter_medium"
+                    android:foreground="?attr/selectableItemBackgroundBorderless"
+                    android:padding="15dp"
+                    android:paddingBottom="16dp"
+                    android:text="@string/stamp_font_style"
+                    android:textColor="#252932"
+                    android:textSize="18sp"
+                    tools:ignore="UseCompatTextViewDrawableXml" />
+
+                <TextView
+                    android:id="@+id/btn_text_color_style"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:background="@drawable/bg_border"
+                    android:drawableStart="@drawable/ic_text_color"
+                    android:drawableEnd="@drawable/ic_next"
+                    android:drawablePadding="16dp"
+                    android:fontFamily="@font/inter_medium"
+                    android:foreground="?attr/selectableItemBackgroundBorderless"
+                    android:gravity="center_vertical"
+                    android:padding="15dp"
+                    android:text="@string/stamp_text_color"
+                    android:textColor="#252932"
+                    android:textSize="18sp"
+                    tools:ignore="UseCompatTextViewDrawableXml" />
+
+                <TextView
+                    android:id="@+id/btn_logo_option"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:background="@drawable/bg_border"
+                    android:drawableStart="@drawable/ic_stamp_logo"
+                    android:drawableEnd="@drawable/ic_next"
+                    android:drawablePadding="16dp"
+                    android:fontFamily="@font/inter_medium"
+                    android:foreground="?attr/selectableItemBackgroundBorderless"
+                    android:gravity="center_vertical"
+                    android:padding="15dp"
+                    android:text="@string/logo_option"
+                    android:textColor="#252932"
+                    android:textSize="18sp"
+                    tools:ignore="UseCompatTextViewDrawableXml" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:background="@drawable/bg_border"
+                    android:padding="15dp">
+
+                    <TextView
+                        android:id="@+id/rate_setting"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:drawablePadding="16dp"
+                        android:fontFamily="@font/inter_medium"
+                        android:text="@string/stamp_show_map"
+                        android:textColor="#252932"
+                        android:textSize="18sp"
+                        app:drawableStartCompat="@drawable/ic_map"
+                        tools:ignore="UseCompatTextViewDrawab leXml" />
+
+                    <androidx.appcompat.widget.SwitchCompat
+                        android:id="@+id/switch1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerInParent="true"
+                        android:thumb="@drawable/bg_thumb"
+                        app:track="@drawable/bg_track"
+                        tools:ignore="UseSwitchCompatOrMaterialXml" />
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</layout>

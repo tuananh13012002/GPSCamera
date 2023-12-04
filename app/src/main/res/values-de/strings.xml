@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Camera</string>
+
+    <string name="title_intro_1">Stempeln Sie Ihre Erinnerungen</string>
+    <string name="title_intro_2">Anpassbare Vorlagen</string>
+    <string name="title_intro_3">Interaktive Karten</string>
+
+    <string name="title_back_intro">Zurück</string>
+    <string name="intro_next">Weiter</string>
+
+    <string name="content_intro_1">Verbessern Sie den erzählerischen Aspekt Ihrer Fotos mit unserer intuitiven Stempelfunktion</string>
+    <string name="content_intro_2">Wählen Sie aus einer Vielzahl von Tagebuchvorlagen, die zu Ihrem Reisestil passen</string>
+    <string name="content_intro_3">Erleben Sie Ihre gesamte Reise auf einer interaktiven Karte</string>
+
+    <string name="splash_title">Diese Aktion kann Werbung enthalten</string>
+
+    <string name="facebook_app_id" translatable="false"></string>
+    <string name="facebook_client_token" translatable="false"></string>
+    <string name="app_flyer" translatable="false">LikYKU2zUYTct7BoQ7MuJY</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    // policy
+    <string name="privacy_policy_link">https://biuustudio.netlify.app/policy</string>
+
+    <string name="title_dialog_rating_0">Gefällt Ihnen die App?</string>
+    <string name="content_dialog_rating_0">Lassen Sie uns Ihre Erfahrung wissen</string>
+
+    <string name="title_dialog_rating">Oh, nein!</string>
+    <string name="content_dialog_rating">Bitte geben Sie uns Feedback</string>
+
+    <string name="title_dialog_rating_4_5">Wir lieben dich auch!</string>
+    <string name="content_dialog_rating_4_5">Vielen Dank für Ihr Feedback</string>
+    <string name="please_feedback">Bitte geben Sie Feedback</string>
+
+    //home
+    <string name="home">Zuhause</string>
+
+    //setting
+    <string name="language">Sprache</string>
+    <string name="language_option">Sprachoptionen</string>
+    <string name="rate_us">Bewerten Sie uns</string>
+    <string name="private_policy">Datenschutzerklärung</string>
+    <string name="setting">Einstellung</string>
+    <string name="stamp_options">Stempeloptionen</string>
+
+    //permisison
+    <string name="permission">Berechtigung</string>
+    <string name="go">Los</string>
+
+    <string name="permission_title">\u0022GPS Camera\u0022 benötigt Berechtigungen zur Verwendung des Gerätespeichers, der Kamera und des Standorts</string>
+    <string name="map">Karte</string>
+    <string name="view_all">Alle anzeigen</string>
+    <string name="permission_denied">Berechtigung verweigert</string>
+    <string name="image">Fotos</string>
+    <string name="video">Videos</string>
+    <string name="information">Information</string>
+    <string name="name">Name</string>
+    <string name="date">Datum</string>
+    <string name="path">Pfad</string>
+    <string name="resolution">Auflösung</string>
+    <string name="delete_successfully">Löschen erfolgreich</string>
+    <string name="something_wrong">Etwas stimmt mit dieser Datei nicht</string>
+    <string name="stamp_customization">Stempelanpassung</string>
+    <string name="string_banner_home">Fügen Sie informativen und personalisierten Stempel zu Ihren geogetaggten Bildern hinzu und verwandeln Sie sie in lebendige Reiseerzählungen</string>
+    <string name="compass">Kompass</string>
+    <string name="per_storage">Speicher</string>
+    <string name="per_camera_record">Kamera &amp; Aufnahme</string>
+    <string name="per_location">Ort</string>
+    <string name="setting_stamp_options">Stempeloptionen</string>
+    <string name="map_gps_coordinates">GPS-Koordinaten</string>
+    <string name="map_latitude">Breitengrad</string>
+    <string name="map_longitude">Längengrad</string>
+    <string name="map_location">Ort</string>
+    <string name="title_compass">Kompass</string>
+    <string name="camera_photo">Foto</string>
+    <string name="camera_video">Video</string>
+    <string name="title_font_style">Schriftstil</string>
+    <string name="title_text_color">Textfarbe</string>
+    <string name="stamp_font_style">Schriftstil</string>
+    <string name="stamp_text_color">Textfarbe</string>
+    <string name="stamp_show_map">Karte anzeigen</string>
+    <string name="could_not_find_this_image_address">Die Bildadresse konnte nicht gefunden werden</string>
+    <string name="can_t_find_the_longitude_and_latitude_of_this_photo">Die Längen- und Breitengrade dieses Fotos konnten nicht gefunden werden</string>
+    <string name="sample_file">Dies ist eine Beispieldatei</string>
+    <string name="text_elevation">%1s Höhe</string>
+    <string name="check_permission_internet">Sie müssen das Internet einschalten</string>
+
+    <string name="text_start">Starten</string>
+    <string name="title_stamp_option">Stempel Option</string>
+    <string name="text_rate">Bewerten</string>
+
+    <string name="text_exit">Beenden</string>
+    <string name="save_video_success">Das Video wurde gespeichert</string>
+
+    <string name="gallery">Galerie</string>
+    <string name="map_data">Kartendaten</string>
+    <string name="location_permission_denied">Standortberechtigung verweigert</string>
+    <string name="logo_option">Logo-Option</string>
+    <string name="please_allow_the_permission">Bitte erteilen Sie die Erlaubnis</string>
+    <string name="note">Notiz:</string>
+    <string name="you_need_to_turn_on_the_internet">Sie müssen das Internet einschalten</string>
+    <string name="confirm_delete">Löschen bestätigen</string>
+    <string name="do_you_want_to_delete_this_photo">Möchten Sie dieses Foto %1s?</string>
+    <string name="cancel">Stornieren</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="note_v2">Notiz</string>
+    <string name="add_note">Notiz hinzufügen</string>
+    <string name="thank_you">Vielen Dank</string>
+
+</resources>

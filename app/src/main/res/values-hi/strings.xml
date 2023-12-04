@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Camera</string>
+
+    <string name="title_intro_1">अपनी यादें छापें</string>
+    <string name="title_intro_2">कस्टमाइजेबल टेम्पलेट्स</string>
+    <string name="title_intro_3">इंटरऐक्टिव मैप्स</string>
+
+    <string name="title_back_intro">वापस</string>
+    <string name="intro_next">आगे</string>
+
+    <string name="content_intro_1">अपनी फ़ोटोग्राफ़ी को हमारे सुझाए गए छापे की सहायता से बेहतर बनाएं</string>
+    <string name="content_intro_2">अपने यात्रा शैली के साथ मेल खाने के लिए विभिन्न जर्नल टेम्पलेट्स में से चुनें</string>
+    <string name="content_intro_3">एक इंटरऐक्टिव मैप पर अपने पूरे ट्रिप को देखें</string>
+
+    <string name="splash_title">इस क्रिया में विज्ञापन हो सकता है</string>
+
+    <string name="facebook_app_id" translatable="false"></string>
+    <string name="facebook_client_token" translatable="false"></string>
+    <string name="app_flyer" translatable="false">LikYKU2zUYTct7BoQ7MuJY</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- policy -->
+    <string name="privacy_policy_link">https://biuustudio.netlify.app/policy</string>
+
+    <string name="title_dialog_rating_0">क्या आपको ऐप पसंद है?</string>
+    <string name="content_dialog_rating_0">हमें अपने अनुभव के बारे में बताएं</string>
+
+    <string name="title_dialog_rating">ओह, नहीं!</string>
+    <string name="content_dialog_rating">कृपया हमें कुछ प्रतिक्रिया दें</string>
+
+    <string name="title_dialog_rating_4_5">हम भी आपको पसंद करते हैं!</string>
+    <string name="content_dialog_rating_4_5">आपकी प्रतिक्रिया के लिए धन्यवाद</string>
+    <string name="please_feedback">कृपया प्रतिक्रिया दें</string>
+
+    <!-- home -->
+    <string name="home">होम</string>
+
+    <!-- setting -->
+    <string name="language">भाषा</string>
+    <string name="language_option">भाषा विकल्प</string>
+    <string name="rate_us">हमें रेट करें</string>
+    <string name="private_policy">निजता नीति</string>
+    <string name="setting">सेटिंग</string>
+    <string name="stamp_options">स्टैम्प विकल्प</string>
+
+    <!-- permission -->
+    <string name="permission">अनुमति</string>
+    <string name="go">जाएं</string>
+
+    <string name="permission_title">\u0022GPS Camera\u0022 को डिवाइस के संग्रहण, कैमरा और स्थान का उपयोग करने की अनुमति की आवश्यकता है</string>
+    <string name="map">मानचित्र</string>
+    <string name="view_all">सभी देखें</string>
+    <string name="permission_denied">अनुमति निरस्त</string>
+    <string name="image">फ़ोटो</string>
+    <string name="video">वीडियो</string>
+    <string name="information">जानकारी</string>
+    <string name="name">नाम</string>
+    <string name="date">तारीख</string>
+    <string name="path">पथ</string>
+    <string name="resolution">संकल्प</string>
+    <string name="delete_successfully">सफलतापूर्वक हटाया गया</string>
+    <string name="something_wrong">इस फ़ाइल में कुछ ग़लत है</string>
+    <string name="stamp_customization">स्टैम्प अनुकूलन</string>
+    <string name="string_banner_home">अपनी जियो-टैग की गई छवियों में सूचनात्मक और व्यक्तिगत स्टैम्प जोड़ें, जो आपकी यात्राओं की जीवंत कथाओं में बदल देते हैं</string>
+    <string name="compass">कम्पास</string>
+    <string name="per_storage">संग्रहण</string>
+    <string name="per_camera_record">कैमरा और रिकॉर्ड</string>
+    <string name="per_location">स्थान</string>
+    <string name="setting_stamp_options">स्टैम्प विकल्प</string>
+    <string name="map_gps_coordinates">GPS कॉर्डिनेट्स</string>
+    <string name="map_latitude">अक्षांश</string>
+    <string name="map_longitude">देशान्तर</string>
+    <string name="map_location">स्थान</string>
+    <string name="title_compass">कम्पास</string>
+    <string name="camera_photo">फोटो</string>
+    <string name="camera_video">वीडियो</string>
+    <string name="title_font_style">फ़ॉन्ट स्टाइल</string>
+    <string name="title_text_color">टेक्स्ट कलर</string>
+    <string name="stamp_font_style">फ़ॉन्ट स्टाइल</string>
+    <string name="stamp_text_color">टेक्स्ट कलर</string>
+    <string name="stamp_show_map">मानचित्र दिखाएं</string>
+    <string name="could_not_find_this_image_address">इस छवि का पता नहीं लगा सकते</string>
+    <string name="can_t_find_the_longitude_and_latitude_of_this_photo">इस फोटो की देशान्तर और अक्षांश नहीं मिल सकते</string>
+    <string name="sample_file">यह एक नमूना फ़ाइल है</string>
+    <string name="text_elevation">%1sm ऊंचाई</string>
+    <string name="check_permission_internet">आपको इंटरनेट चालने की आवश्यकता है</string>
+
+
+    <string name="text_start">शुरू</string>
+    <string name="title_stamp_option">स्टैंप विकल्प</string>
+    <string name="text_rate">मूल्यांकन</string>
+
+    <string name="text_exit">निकास</string>
+
+    <string name="save_video_success">वीडियो सहेज ली गई है</string>
+
+
+    <string name="gallery">गैलरी</string>
+    <string name="map_data">मानचित्र डेटा</string>
+    <string name="location_permission_denied">स्थान की अनुमति अस्वीकृत</string>
+    <string name="logo_option">लोगो विकल्प</string>
+    <string name="please_allow_the_permission">कृपया अनुमति दें</string>
+    <string name="note">टिप्पणी:</string>
+    <string name="you_need_to_turn_on_the_internet">आपको इंटरनेट चालू करना होगा</string>
+    <string name="confirm_delete">हटाने की पुष्टि करें</string>
+    <string name="do_you_want_to_delete_this_photo">क्या आप इस %1s को हटाना चाहते हैं?</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="confirm">पुष्टि करना</string>
+    <string name="note_v2">टिप्पणी</string>
+    <string name="add_note">नोट जोड़े</string>
+
+    <string name="thank_you">धन्यवाद</string>
+
+
+
+</resources>

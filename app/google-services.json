@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533398318388",
+    "project_id": "app174-gps-camera",
+    "storage_bucket": "app174-gps-camera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533398318388:android:6a1a5235f891500a07c961",
+        "android_client_info": {
+          "package_name": "com.geotag.timestamp.gpsmapcamera.gpsphotolocation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8pW9r2cOfVLI5R2adId4lDHOX_JsLfjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

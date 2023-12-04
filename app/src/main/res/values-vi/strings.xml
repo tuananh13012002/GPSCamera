@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Camera</string>
+
+    <string name="title_intro_1">Đóng dấu Kỷ niệm của bạn</string>
+    <string name="title_intro_2">Mẫu Tùy chỉnh</string>
+    <string name="title_intro_3">Bản đồ Tương tác</string>
+
+    <string name="title_back_intro">Quay lại</string>
+    <string name="intro_next">Tiếp</string>
+
+    <string name="content_intro_1">Nâng cao khả năng kể chuyện của bức ảnh của bạn với tính năng đóng dấu thông minh của chúng tôi</string>
+    <string name="content_intro_2">Chọn từ nhiều mẫu nhật ký để phù hợp với phong cách du lịch của bạn</string>
+    <string name="content_intro_3">Xem toàn bộ chuyến đi của bạn trên bản đồ tương tác</string>
+
+    <string name="splash_title">Hành động này có thể chứa quảng cáo</string>
+
+    <string name="facebook_app_id" translatable="false"></string>
+    <string name="facebook_client_token" translatable="false"></string>
+    <string name="app_flyer" translatable="false">LikYKU2zUYTct7BoQ7MuJY</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- Chính sách -->
+    <string name="privacy_policy_link">https://biuustudio.netlify.app/policy</string>
+
+    <string name="title_dialog_rating_0">Bạn thích ứng dụng không?</string>
+    <string name="content_dialog_rating_0">Hãy cho chúng tôi biết về trải nghiệm của bạn</string>
+
+    <string name="title_dialog_rating">Ôi, không!</string>
+    <string name="content_dialog_rating">Vui lòng cho chúng tôi một chút phản hồi</string>
+
+    <string name="title_dialog_rating_4_5">Chúng tôi cũng yêu bạn!</string>
+    <string name="content_dialog_rating_4_5">Cảm ơn bạn về phản hồi của bạn</string>
+    <string name="please_feedback">Vui lòng phản hồi</string>
+
+    <!-- Trang chủ -->
+    <string name="home">Trang chủ</string>
+
+    <!-- Cài đặt -->
+    <string name="language">Ngôn ngữ</string>
+    <string name="language_option">Các tùy chọn ngôn ngữ</string>
+    <string name="rate_us">Đánh giá chúng tôi</string>
+    <string name="private_policy">Chính sách Riêng tư</string>
+    <string name="setting">Cài đặt</string>
+    <string name="stamp_options">Các Tùy chọn Đóng dấu</string>
+
+    <!-- Quyền hạn -->
+    <string name="permission">Quyền</string>
+    <string name="go">Tiếp tục</string>
+
+    <string name="permission_title">\u0022GPS Camera\u0022 yêu cầu quyền truy cập để sử dụng bộ nhớ, camera và vị trí của thiết bị</string>
+    <string name="map">Bản đồ</string>
+    <string name="view_all">Xem tất cả</string>
+    <string name="permission_denied">Từ chối quyền</string>
+    <string name="image">Ảnh</string>
+    <string name="video">Video</string>
+    <string name="information">Thông tin</string>
+    <string name="name">Tên</string>
+    <string name="date">Ngày</string>
+    <string name="path">Đường dẫn</string>
+    <string name="resolution">Độ phân giải</string>
+    <string name="delete_successfully">Xóa thành công</string>
+    <string name="something_wrong">Có lỗi xảy ra với tệp này</string>
+    <string name="stamp_customization">Tuỳ chỉnh Đóng dấu</string>
+    <string name="string_banner_home">Hãy thêm các dấu thông tin và cá nhân hóa vào hình ảnh có đánh dấu địa lý của bạn, biến chúng thành câu chuyện sống động về các chuyến đi của bạn</string>
+    <string name="compass">La bàn</string>
+    <string name="per_storage">Lưu trữ</string>
+    <string name="per_camera_record">Máy ảnh &amp; Ghi âm</string>
+    <string name="per_location">Vị trí</string>
+    <string name="setting_stamp_options">Các tùy chọn tem</string>
+    <string name="map_gps_coordinates">Tọa độ GPS</string>
+    <string name="map_latitude">Vĩ độ</string>
+    <string name="map_longitude">Kinh độ</string>
+    <string name="map_location">Vị trí</string>
+    <string name="title_compass">La bàn</string>
+    <string name="camera_photo">Ảnh</string>
+    <string name="camera_video">Video</string>
+    <string name="title_font_style">Kiểu phông chữ</string>
+    <string name="title_text_color">Màu văn bản</string>
+    <string name="stamp_font_style">Kiểu phông chữ</string>
+    <string name="stamp_text_color">Màu văn bản</string>
+    <string name="stamp_show_map">Hiển thị Bản đồ</string>
+    <string name="could_not_find_this_image_address">Không thể tìm thấy địa chỉ ảnh này</string>
+    <string name="can_t_find_the_longitude_and_latitude_of_this_photo">Không thể tìm thấy kinh độ và vĩ độ của ảnh này</string>
+    <string name="sample_file">Đây là một tệp mẫu</string>
+    <string name="text_elevation">%1sm Độ cao</string>
+    <string name="check_permission_internet">Bạn cần bật Internet</string>
+    <string name="text_start">Bắt đầu</string>
+    <string name="title_stamp_option">Tùy chọn tem</string>
+    <string name="text_rate">Đánh giá</string>
+    <string name="text_exit">Thoát</string>
+    <string name="save_video_success">Video đã được lưu</string>
+
+
+    <string name="gallery">Phòng trưng bày</string>
+    <string name="map_data">Dữ liệu bản đồ</string>
+    <string name="location_permission_denied">Quyền vị trí bị từ chối</string>
+    <string name="logo_option">Tùy chọn biểu tượng</string>
+    <string name="please_allow_the_permission">Vui lòng cho phép</string>
+    <string name="note">Ghi chú:</string>
+    <string name="you_need_to_turn_on_the_internet">Bạn cần bật Internet</string>
+    <string name="confirm_delete">Xác nhận Xóa</string>
+    <string name="do_you_want_to_delete_this_photo">Bạn có muốn xóa %1s này?</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="note_v2">Ghi chú</string>
+    <string name="add_note">Thêm ghi chú</string>
+
+    <string name="thank_you">Cảm ơn bạn</string>
+
+
+</resources>
